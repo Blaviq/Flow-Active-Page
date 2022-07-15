@@ -26,12 +26,11 @@
 .form-input {
     width: 90%;
     background: #DEDEDE;
-    border: 1px solid #AF13AF;
+    border: 2px solid #AF13AF;
     backdrop-filter: blur(4px);
 }
 .form-input:hover {
     border: 2px solid #AF13AF;
-    box-shadow: 0 0 0 4px #F49AF420;
 }
 .form-input:active, .form-input-2:focus {
     outline: none;
@@ -46,12 +45,12 @@
     color: #DEDEDE;
     backdrop-filter: blur(4px);
     border-radius: 5px;
-    box-shadow: 0 4px 0 0 #F49AF470;
+    box-shadow: 0 3px 0 0  #DEDEDE;
 }
 .btnnn {
     width: 90%;
     border: 1px solid #AF13AF;
-    color: #E9E5E5;
+    background-color: white;
     border-radius: 5px;
-    box-shadow: 0 4px 0 0 #F49AF470;
+    box-shadow: 0 3px 0 0  #DEDEDE;
 }

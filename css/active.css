@@ -25,7 +25,7 @@
 .form-input {
     width: 100%;
     background: #DEDEDE;
-    border: 1px solid #AF13AF;
+    border: 2px solid #AF13AF;
     backdrop-filter: blur(4px);
 }
 .form-input:hover {
@@ -44,7 +44,7 @@
     color: #DEDEDE;
     backdrop-filter: blur(4px);
     border-radius: 5px;
-    box-shadow: 0 4px 0 0 #F49AF470;
+    box-shadow: 0 3px 0 0  #DEDEDE;
 }
 
 
